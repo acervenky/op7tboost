@@ -1,2 +1,12 @@
-# op7tboost
-Volume Boost Mod For OnePlus 7T
+# **OnePlus 7T Speaker & Headphone Volume Boost Mod**
+
+## Description
+
+Speaker & Headphone Volume Boost Mod
+
+## Changelog
+
+v1
+
+- Initial Release
+
